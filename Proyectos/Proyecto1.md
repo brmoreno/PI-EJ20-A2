@@ -26,7 +26,7 @@ De acuerdo a lo especificado, presenta tu proyecto frente al grupo. Recuerda que
 
 6/10 puntos. Si no presentas en el tiempo tu calificación es 0/10
 
-Parámetros: creatividad, conexión con prácticas análogas de improvisación, calidad de la representación, discurso artístico.
+Parámetros: creatividad, conexión con prácticas análogas de improvisación, calidad de la representación, discurso artístico, uso de las cualidades propias de la programación como práctica interactiva
 
 ### Etapa 4. 
 Responde preguntas sobre tu proyecto
