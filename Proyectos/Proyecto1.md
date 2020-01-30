@@ -13,6 +13,7 @@ Presenta frente al grupo dos opciones para tu proyecto de Live Coding. Tu presen
 4)	Bocetos, esquemas o mood-bards que permitan entender el look and feel de tu pieza. 
 
 Se presenta el 10 de Febrero de 2020 en un máximo de 8 minutos. Trae tu presentación en formato PDF o MOV. Todas las entregas deben estar listas EN MÁXIMO DOS MEMORIAS USB PARA TODO EL GRUPO.
+
 1/10 puntos. Sin entrega no hay calificación.
 
 ### Etapa 2. 
@@ -29,4 +30,5 @@ Parámetros: creatividad, conexión con prácticas análogas de improvisación, 
 
 ### Etapa 4. 
 Responde preguntas sobre tu proyecto
+
 1/10 puntos
