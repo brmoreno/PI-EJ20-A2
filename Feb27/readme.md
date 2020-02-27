@@ -1,6 +1,7 @@
 # Práctica 3
 
-Primero utiliza los siguientes componentes R1= 1kΩ, R2= 1kΩ, C= 3.3μF
+Primero, utiliza los siguientes componentes R1= 1kΩ, R2= 1kΩ, C= 3.3μF
+
 al enviar la señal del 555 al amplificador, debes escuchar un oscilador de onda cuadrada
 
 Luego, intenta con distintos valores para R1,R2 y C y nota como se altera la frecuencia del oscilador.
