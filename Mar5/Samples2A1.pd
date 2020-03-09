@@ -1,0 +1,46 @@
+#N canvas 72 161 800 552 10;
+#N canvas 0 22 450 278 (subpatch) 0;
+#X array sample 718144 float 2;
+#X coords 0 1 718144 -1 200 140 1;
+#X restore 525 85 graph;
+#X obj 313 172 soundfiler;
+#X floatatom 313 198 10 0 0 0 - - -;
+#X msg 312 124 read -resize \$1 sample;
+#X obj 311 55 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 311 90 openpanel;
+#X obj 296 477 tabread4~ sample;
+#X obj 285 178 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 293 522 dac~;
+#X obj 287 391 phasor~;
+#X obj 334 236 expr 44100 / $f1;
+#X floatatom 337 265 10 0 0 0 - - -;
+#X obj 291 424 *~ 0;
+#X obj 288 345 *;
+#X obj 148 233 hsl 128 15 -2 2 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X floatatom 145 254 5 0 0 0 - - -;
+#X obj 149 316 hsl 128 15 0 1 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 1400 1;
+#X floatatom 146 337 5 0 0 0 - - -;
+#X text 145 211 velocidad y dirección;
+#X text 146 295 modifica la fase;
+#X connect 1 0 2 0;
+#X connect 2 0 10 0;
+#X connect 2 0 12 1;
+#X connect 3 0 1 0;
+#X connect 4 0 5 0;
+#X connect 5 0 3 0;
+#X connect 6 0 8 0;
+#X connect 6 0 8 1;
+#X connect 7 0 2 0;
+#X connect 9 0 12 0;
+#X connect 10 0 11 0;
+#X connect 11 0 13 1;
+#X connect 12 0 6 0;
+#X connect 13 0 9 0;
+#X connect 14 0 15 0;
+#X connect 15 0 13 0;
+#X connect 16 0 17 0;
+#X connect 17 0 9 1;
