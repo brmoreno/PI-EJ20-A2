@@ -7,7 +7,7 @@
 
 ## Sonido 
 - Síntesis ¿Qué técnicas de sintesis uso?, ¿Qué tonos voy a utilizar?
-- Samples ¿Qué samples? ¿De donde los tomos? ¿Cuantos? ¿Cómo se reproducen(readsf~,tabplay~, tabread4~...)?
+- Samples ¿Qué samples? ¿De donde los tomo? ¿Cuantos? ¿Cómo se reproducen(readsf~,tabplay~, tabread4~...)?
 - Sonido en vivo ¿Qué fuentes? ¿Como las conecto? 
 - Procesamiento de señal ¿A qué sonido? ¿Qué proceso(s) utilizo? ¿Bajo qué parámetros? ¿Cómo se controla? Mapeo del flujo de la señal
 
