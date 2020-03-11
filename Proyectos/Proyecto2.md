@@ -1,7 +1,7 @@
 # Especificación del Proyecto 2
 
 En este proyecto utilizaremos las capacidades de procesamiento de la señal, síntesis de sonido y sampleo  de Pd como medio creativo. En un equipo de 2 integrantes deben desarrollar un proyecto de performance digital  en vivo bajo las siguientes especificaciones: 
-1)	Tu proyecto debe estar basado en los resultados de la investigación documental de uno de los artistas revisados durante las presentaciones.
+1)	Tu proyecto debe estar inspirado en los resultados de la investigación documental de uno de los artistas revisados durante las presentaciones.
 2)	Al menos una parte del sonido de tu pieza debe ser ejecutado y procesado en vivo.
 3)	Debes de incluir al menos un mecanismo de interfaz de control: teclado, mouse, tableta, MIDI, HCI, aplicación OSC o análisis de la señal.
 4)	Sólo cuentas con 8 minutos para preparar tu hardware, montar el equipo, presentar tu pieza y mostrar el sistema que realizaste. 
