@@ -18,13 +18,13 @@ Presenta frente al grupo dos opciones para tu proyecto. Tu presentación debe in
 2/10 puntos. Sin entrega no hay calificación.
 
 # Etapa 2. 
-Utilizando el checklist, presenta el estado de avance de tu proyecto y recibe retroalimentación de otro equipo. Evaluaremos tanto el estado de avance de tu proyecto como la calidad y substancia de la retroalimentación que des a tus compañeros en forma de critica constructiva y preguntas. Se realiza el 27 de Marzo de 2020.
+Utilizando el checklist (https://github.com/brmoreno/PI-EJ20-A2/blob/master/Proyectos/checklistP2.md), presenta el estado de avance de tu proyecto y recibe retroalimentación de otro equipo. Evaluaremos tanto el estado de avance de tu proyecto como la calidad y substancia de la retroalimentación que des a tus compañeros en forma de critica constructiva y preguntas. Se realiza el 27 de Marzo de 2020. El checklist se entrega en físico al final de la clase.
 
 2/10 puntos
 
 
 # Etapa 3. 
-De acuerdo a lo especificado, presenta tu proyecto en el Auditorio 102. Recuerda que eres responsable de TODO lo necesario para presentar tu proyecto.  Se presenta el 2 de Octubre de 2018. Recuerda, Es una pieza de performance, NO UNA DEMOSTRACIÓN DE TU SISTEMA DE SOFTWARE, piensa en su estructura, intención y ejecución.  
+De acuerdo a lo especificado, presenta tu proyecto en el Auditorio 102. Recuerda que eres responsable de TODO lo necesario para presentar tu proyecto.  Se presenta el 31 de Marzo de 2020. Recuerda, Es una pieza de performance, NO UNA DEMOSTRACIÓN DE TU SISTEMA DE SOFTWARE, piensa en su estructura, intención y ejecución.  
 6/10 puntos.  Parámetros: ejecución, creatividad, calidad de la representación, discurso artístico.
 
 
