@@ -1,0 +1,27 @@
+#N canvas 100 62 642 728 10;
+#X declare -lib mrpeach;
+#X text 45 32 TouchOSC https://hexler.net/products/touchosc En Touch
+OSC ajusto parámetros para que se conecte al IP de mi máquina y mande
+mensajes al puerto 8000;
+#X obj 42 139 import mrpeach;
+#X obj 43 190 udpreceive 8000;
+#X obj 44 224 unpackOSC;
+#X obj 46 270 print;
+#X obj 109 272 routeOSC /1/faderA;
+#X floatatom 109 302 5 0 0 0 - - -;
+#X text 234 272 uso routeOSC para asilar y utilizar los mensajes;
+#X obj 112 375 routeOSC /accxyz;
+#X obj 113 402 unpack 0 0 0;
+#X floatatom 112 451 5 0 0 0 - - -;
+#X floatatom 152 453 5 0 0 0 - - -;
+#X floatatom 189 451 5 0 0 0 - - -;
+#X text 231 408 comment;
+#X connect 2 0 3 0;
+#X connect 3 0 4 0;
+#X connect 3 0 5 0;
+#X connect 3 0 8 0;
+#X connect 5 0 6 0;
+#X connect 8 0 9 0;
+#X connect 9 0 10 0;
+#X connect 9 1 11 0;
+#X connect 9 2 12 0;

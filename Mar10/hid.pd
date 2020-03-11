@@ -1,0 +1,35 @@
+#N canvas 0 22 563 510 10;
+#X obj 110 142 hid;
+#X obj 71 88 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0 1
+;
+#X msg 184 92 refresh;
+#X msg 184 127 print;
+#X msg 184 63 open \$1;
+#X floatatom 184 30 5 0 0 0 - - -;
+#X obj 107 193 print;
+#X obj 179 186 route abs;
+#X obj 181 225 route abs_x abs_y abs_rz;
+#X floatatom 181 259 5 0 0 0 - - -;
+#X floatatom 226 257 5 0 0 0 - - -;
+#X floatatom 274 259 5 0 0 0 - - -;
+#X obj 372 188 route key;
+#X obj 375 226 route btn_1 btn_2;
+#X obj 375 255 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X obj 423 256 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X connect 0 0 6 0;
+#X connect 0 0 7 0;
+#X connect 0 0 12 0;
+#X connect 1 0 0 0;
+#X connect 2 0 0 0;
+#X connect 3 0 0 0;
+#X connect 4 0 0 0;
+#X connect 5 0 4 0;
+#X connect 7 0 8 0;
+#X connect 8 0 9 0;
+#X connect 8 1 10 0;
+#X connect 8 2 11 0;
+#X connect 12 0 13 0;
+#X connect 13 0 14 0;
+#X connect 13 1 15 0;
