@@ -25,6 +25,7 @@ Utilizando el checklist (https://github.com/brmoreno/PI-EJ20-A2/blob/master/Proy
 
 # Etapa 3. 
 De acuerdo a lo especificado, presenta tu proyecto en el Auditorio 102. Recuerda que eres responsable de TODO lo necesario para presentar tu proyecto.  Se presenta el 31 de Marzo de 2020. Recuerda, Es una pieza de performance, NO UNA DEMOSTRACIÓN DE TU SISTEMA DE SOFTWARE, piensa en su estructura, intención y ejecución.  
+
 6/10 puntos.  Parámetros: ejecución, creatividad, calidad de la representación, discurso artístico.
 
 
